@@ -1,0 +1,23 @@
+HMI project
+---------------------------------------------------------------------------------
+Design and develop in java, an application for the creation of a student card for Abdelhamid ibn Badis University.
+First of all, the user (Administrator) must enter information about a student in a form, 
+the information to be entered is:(Last name, first name, Date of birth, sector, faculty and year of study)
+
+ A student number must be assigned automatically by the system and shown on the student card. All of its information is required.
+An identity photo of each student must be added to the form.
+
+The university logo should appear on the form.
+
+Once all the information has been entered, the administrator validates his entry, after validation a student card containing all the information on the student as well as his photo and the logo of the university is created.
+
+The administrator must be able to save the card or print it out, to modify an entry in the event of an error.
+
+He must be able to create another card, without having to close the interface.
+
+The entry form as well as the student card must have an ergonomic interface respecting the rules for designing an ihm (robustness, guidance, consistency, etc.).
+ 
+Rules concerning the project:
+- The project can be done in pairs or in monomials.
+ No trinomial group will be accepted. 
+- The project must be returned and consulted on Monday, February 22, a program and a room for consultation will be displayed to you later.
