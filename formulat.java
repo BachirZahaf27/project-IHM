@@ -343,37 +343,30 @@ public class formulat extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jComboBox2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jComboBox2ActionPerformed
-
-    private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jComboBox1ActionPerformed
 
     private void saveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_saveActionPerformed
-        // enregistre
+        // saving the information that you enter in the table with a popup window that confirm if you want to save the student or not
 
     }//GEN-LAST:event_saveActionPerformed
 
     private void updateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_updateActionPerformed
-        // modifier
+        // update an information of a existing student with a popup window that confirm if you want to update the student or not
     }//GEN-LAST:event_updateActionPerformed
 
     private void addActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addActionPerformed
-        // ajouter un auttre étudiant
+        // add another student that means when you click the button all the feilds is gonna clear so you can enter another student info without clearing the textfeilds  
     }//GEN-LAST:event_addActionPerformed
 
     private void deleteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_deleteActionPerformed
-        // supprimer
+        // delete an existing student with a popup window that confirm if you want to delect the student or not
     }//GEN-LAST:event_deleteActionPerformed
 
     private void attachphotoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_attachphotoActionPerformed
-        // ajouter un photo
+        // attach a photo of the sudent
     }//GEN-LAST:event_attachphotoActionPerformed
 
     private void search_barActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_search_barActionPerformed
-        // supprimier ca
+        // searching for a student by typing his id so all the info will appear on the textfeilds
     }//GEN-LAST:event_search_barActionPerformed
 
     /**
